@@ -1,2 +1,2 @@
 # student-result
-student result (using laravel)
+student information portal (using laravel)
